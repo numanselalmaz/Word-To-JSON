@@ -1,0 +1,216 @@
+{
+    "Unite_1": [
+        {
+            "kelime": "Merhaba, Size nasıl hitap edebilirim? Bana Tolga diyebilirsin. ",
+            "anlami": "Hello/Hi, what would you like to be called? Just call me Tolga. "
+        },
+        {
+            "kelime": "İsminizi öğrenebilir miyim lütfen?  Elbette, ben Leyla. ",
+            "anlami": "May I have your name, please? / Can I ask your name? Sure, I am Leyla. "
+        },
+        {
+            "kelime": "Adınızı alayım lütfen, adınızı alamadım da. Herkes bana Furkan der. ",
+            "anlami": "Let me have your name please, I didn’t catch your name. People call me Furkan. "
+        },
+        {
+            "kelime": "Tanıştığımıza memnun oldum. Ben de. ",
+            "anlami": "Nice/Pleased/Glad to meet you. Me,too/so am I/same to you. "
+        },
+        {
+            "kelime": "Sizi tanımak benim için ayrıcalık. Benim için de. ",
+            "anlami": "It is a privilige form e to know you. Likewise to you. "
+        },
+        {
+            "kelime": "Ali seni Elif’le tanıştırayım. ",
+            "anlami": "Ali, let me introduce Elif to you. "
+        },
+        {
+            "kelime": " Nasılsın, nasıl gidiyor? ",
+            "anlami": "How are you? How is it going?/What’s up? "
+        },
+        {
+            "kelime": "Bugün nasıl hissediyorsun? Keyfim yerinde. ",
+            "anlami": "How do you feel today? I am in high spirits "
+        },
+        {
+            "kelime": "İyiyim, teşekkür ederim, çok naziksin. Ya sen? ",
+            "anlami": "Fine, thank you, that’s very kind of you. What about you? "
+        },
+        {
+            "kelime": "Bu aralar ne yapıyorsun? Her zamanki gibi. ",
+            "anlami": "What are you up to? Same as usual. "
+        },
+        {
+            "kelime": "Bugün havamdayım. ",
+            "anlami": "I am in good mood today. "
+        },
+        {
+            "kelime": "Tam olarak nerelisin? ",
+            "anlami": "Whereabouts are you from? "
+        },
+        {
+            "kelime": "Karabük’te doğdum ama İstanbul’da büyüdüm. ",
+            "anlami": "I was born in Karabük but I grew up in Istanbul. "
+        }
+    ],
+    "Unite_2": [
+        {
+            "kelime": "Ne zaman ve nerede doğdunuz efendim? ",
+            "anlami": "When and where were you born, sir? "
+        },
+        {
+            "kelime": "1984 yılında Frankfurt’ta doğdum. ",
+            "anlami": "I was born in 1984, Frankfurt. "
+        },
+        {
+            "kelime": "Nerelisin ve nereden gelirsin? ",
+            "anlami": "Where are you from and where do you come from? "
+        },
+        {
+            "kelime": "Uyruğunuz nedir ve ülkeniz nerededir? ",
+            "anlami": "What nationality are you and where is your country? "
+        },
+        {
+            "kelime": "Aslen Mısırlıyım. Mısır Kuzeydoğu Afrika’dan Asya’nın Güneybatı köşesine uzanır. Aynı zamanda bir Akdeniz ülkesidir. ",
+            "anlami": "I am originally Egyptian. Egypt spans from Northeast Africa/ corner of Africa to the Southwest corner of Asia. It is also a Mediterranean country. "
+        },
+        {
+            "kelime": "Memleketiniz nerededir? ",
+            "anlami": "Where is your hometown? "
+        },
+        {
+            "kelime": "Memleketim, Kırıkkale, İç Anadolu Bölgesindedir. ",
+            "anlami": "My hometown, Kırıkkale, is in the Central Anatolia Region. "
+        },
+        {
+            "kelime": "Kaç yaşınızdasınız? 32 yaşındayım. ",
+            "anlami": "How olda re you? I am 32. "
+        },
+        {
+            "kelime": "Yaşınız kaç? Yaşım 35. ",
+            "anlami": "What is your age? I am at the age of 35. "
+        },
+        {
+            "kelime": "Evli misin? Hayır, evli değilim, bekârım. ",
+            "anlami": "Are you married? No, I am not married, I am single/bachelor. "
+        },
+        {
+            "kelime": "I am married to Fatih and a mother of two children. ",
+            "anlami": "Fatih’le evli ve iki çocuk annesiyim. "
+        },
+        {
+            "kelime": "Boşandım, dulum. ",
+            "anlami": "I am divorced, I am a widow. "
+        },
+        {
+            "kelime": "I have a fiancee. I am engaged to Ceren. ",
+            "anlami": "Nişanlım var. Ceren’le nişanlıyım. "
+        }
+    ],
+    "Unite_3": [
+        {
+            "kelime": "Orası yürüyerek ne kadar sürer? ",
+            "anlami": "How long does it take on foot? "
+        },
+        {
+            "kelime": "Buradan trenle hemen hemen 5 saat sürer/çeker. ",
+            "anlami": "It takes almost 5 hours by train. "
+        },
+        {
+            "kelime": "Hastaneye ne kadar kaldı?/ne kadar uzaklıkta? ",
+            "anlami": "How far are we from (the) hospital? "
+        },
+        {
+            "kelime": "Buraya yaklaşık 2 dakika, 500 metre mesafede. ",
+            "anlami": "It is about 2 minutes, 500 metres from here. "
+        },
+        {
+            "kelime": "Telefon numaranızı öğrenebilir/alabilir miyim, lütfen? ",
+            "anlami": "Can I get your phone number, please? "
+        },
+        {
+            "kelime": "Ara sıra telefon etmemin/aramamın sakıncası var mı? ",
+            "anlami": "Do you mind if I give you a ring/call you once in a while? "
+        },
+        {
+            "kelime": "May ı have your e-mail address? ",
+            "anlami": "Elektronik posta adresinizi alabilir miyim? "
+        },
+        {
+            "kelime": "What is your e-mail account? ",
+            "anlami": "Elektronik posta adresiniz nedir? "
+        },
+        {
+            "kelime": "Adresinize/Evinize nasıl ulaşabilirim? ",
+            "anlami": "How can I reach/find your address/apartment/house? "
+        },
+        {
+            "kelime": "Oturduğunuz yerin yolunu bana tarif edebilir misiniz? ",
+            "anlami": "Can you tell me the way of your neighbourhood? "
+        },
+        {
+            "kelime": "Lütfen bana saati söyler misiniz? ",
+            "anlami": "Can you please tell me the time? "
+        },
+        {
+            "kelime": "Evet, tabiî ki, saat yediyi on geçiyor. ",
+            "anlami": "Yes, of course/sure, it is ten past seven. "
+        },
+        {
+            "kelime": "Saat demişken, saatin tam olarak kaç olduğunu biliyor musunuz? ",
+            "anlami": "Speaking of time, do you know what time it is exactly? "
+        },
+        {
+            "kelime": "Bu saat doğru mu? Hayır, o saat ileri/geri. ",
+            "anlami": "Is this clock right? No, it is fast/slow. "
+        },
+        {
+            "kelime": "Alışveriş merkezi kaçta açılır? ",
+            "anlami": "What time does the shopping mall open? "
+        },
+        {
+            "kelime": "Tren ne zaman hareket ediyor? Çoktan gitti/hareket etti. ",
+            "anlami": "When does the train leave?  It has already gone/left. "
+        },
+        {
+            "kelime": "Affedersiniz. Burada yabancıyım. Belediye binasına nasıl gidileceğini bana tarif edebilir misiniz? ",
+            "anlami": "Excuse me. I am a stranger here. Can you tell me how to get/go to the city/town hall? "
+        },
+        {
+            "kelime": "Üçüncü trafik ışıklarına kadar bu caddeyi takip edin sonra sola dönün. ",
+            "anlami": "Go straight along this street to the third-light and then turn left. "
+        },
+        {
+            "kelime": "Caminin karşısında, fakat biraz uzak. ",
+            "anlami": "It is opposite the Mosque, but it is a bit far. "
+        },
+        {
+            "kelime": "Haritada gösterebilir misiniz? ",
+            "anlami": "Can you show me on the map? "
+        },
+        {
+            "kelime": "Doğru yolda mıyız? ",
+            "anlami": "Are we in the right way? "
+        },
+        {
+            "kelime": "Üzgünüm, süre doldu. ",
+            "anlami": "I am sorry, time is over. "
+        },
+        {
+            "kelime": "Kavşaktan sağa sap. ",
+            "anlami": "Turn right at the crossroads. "
+        },
+        {
+            "kelime": "Solda bir marketin önünden geçeceksin. ",
+            "anlami": "You will pass a supermarket on your left. "
+        },
+        {
+            "kelime": "Türk Elçiliğinin nerede olduğunu biliyor musunuz? ",
+            "anlami": "Do you know where the Turkish Embassy is? "
+        },
+        {
+            "kelime": "Kayboldum, bana yardımcı olur musunuz? ",
+            "anlami": "I am lost, could you help me? "
+        }
+    ]
+}
